@@ -2,6 +2,11 @@
 
 This workflow demonstrates **AI prompt chaining** in **n8n**, generating a high-quality blog post from a single input topic. It chains multiple LLM steps—outline generation, evaluation, full blog writing—and posts the final result to **Google Docs**.
 
+
+
+![image](https://github.com/user-attachments/assets/3c98ae0b-4d18-44dd-8ecd-35b60b986a5b)
+
+
 ---
 
 ## 📌 Features
